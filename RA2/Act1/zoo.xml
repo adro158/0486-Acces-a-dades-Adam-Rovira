@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoo>
+    <animal id="1">
+        <nom>Pingüí</nom>
+        <especie>Aptenodytes forsteri</especie>
+        <aliment>Peix</aliment>
+        <edat>5</edat>
+    </animal>
+    <animal id="2">
+        <nom>Lleó</nom>
+        <especie>Panthera leo</especie>
+        <aliment>Carn</aliment>
+        <edat>8</edat>
+    </animal>
+    <animal id="3">
+        <nom>Elefant</nom>
+        <especie>Loxodonta africana</especie>
+        <aliment>Herba</aliment>
+        <edat>25</edat>
+    </animal>
+    <animal id="4">
+        <nom>Tigre</nom>
+        <especie>Panthera tigris</especie>
+        <aliment>Carn</aliment>
+        <edat>6</edat>
+    </animal>
+    <animal id="5">
+        <nom>Girafa</nom>
+        <especie>Giraffa camelopardalis</especie>
+        <aliment>Fulles</aliment>
+        <edat>10</edat>
+    </animal>
+    <animal id="6">
+        <nom>Llop</nom>
+        <especie>Canis lupus</especie>
+        <aliment>Carn</aliment>
+        <edat>4</edat>
+    </animal>
+    <animal id="7">
+        <nom>Os panda</nom>
+        <especie>Ailuropoda melanoleuca</especie>
+        <aliment>Bambú</aliment>
+        <edat>12</edat>
+    </animal>
+</zoo>
