@@ -1,4 +1,4 @@
-# RA2 - Activitat 1: El zoo virtual
+# RA1 - Activitat 4: El zoo virtual
 
 Dues aplicacions en Java que treballen amb un fitxer XML (`zoo.xml`) fent servir **DOM**
 (`javax.xml.parsers` + `org.w3c.dom`).
